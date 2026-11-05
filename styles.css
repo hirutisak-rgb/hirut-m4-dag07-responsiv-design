@@ -251,3 +251,14 @@ article .pris {
 #om-oss h2 {
   grid-column: 1 / -1;
 }
+
+/*===== Dag 7: Responsiv design ===== */
+@media (min-width: 600px) {
+  #main {
+    padding: 40px;
+  }
+}
+
+#hero h2 {
+  font-size: 2.5rem;
+}
